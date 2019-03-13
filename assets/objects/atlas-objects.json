@@ -1,0 +1,320 @@
+{
+    "frames": [
+        {
+            "filename": "barrel",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 28,
+                "h": 31
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-bronz-1",
+            "frame": {
+                "x": 0,
+                "y": 31,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-bronz-2",
+            "frame": {
+                "x": 0,
+                "y": 52,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-bronz-3",
+            "frame": {
+                "x": 0,
+                "y": 73,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-bronz-4",
+            "frame": {
+                "x": 0,
+                "y": 94,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-bronz-5",
+            "frame": {
+                "x": 0,
+                "y": 115,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-bronz-6",
+            "frame": {
+                "x": 0,
+                "y": 136,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-gold-1",
+            "frame": {
+                "x": 0,
+                "y": 157,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-gold-2",
+            "frame": {
+                "x": 0,
+                "y": 178,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-gold-3",
+            "frame": {
+                "x": 0,
+                "y": 199,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-gold-4",
+            "frame": {
+                "x": 0,
+                "y": 220,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-gold-5",
+            "frame": {
+                "x": 0,
+                "y": 241,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-gold-6",
+            "frame": {
+                "x": 0,
+                "y": 262,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-silver-1",
+            "frame": {
+                "x": 0,
+                "y": 283,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-silver-2",
+            "frame": {
+                "x": 0,
+                "y": 304,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-silver-3",
+            "frame": {
+                "x": 0,
+                "y": 325,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-silver-4",
+            "frame": {
+                "x": 0,
+                "y": 346,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-silver-5",
+            "frame": {
+                "x": 0,
+                "y": 367,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coin-silver-6",
+            "frame": {
+                "x": 0,
+                "y": 388,
+                "w": 22,
+                "h": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "door-close-1",
+            "frame": {
+                "x": 0,
+                "y": 409,
+                "w": 48,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "door-open-1",
+            "frame": {
+                "x": 0,
+                "y": 473,
+                "w": 48,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "key-1",
+            "frame": {
+                "x": 0,
+                "y": 537,
+                "w": 25,
+                "h": 13
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "key-2",
+            "frame": {
+                "x": 0,
+                "y": 550,
+                "w": 25,
+                "h": 13
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "magic-potion",
+            "frame": {
+                "x": 0,
+                "y": 563,
+                "w": 10,
+                "h": 15
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

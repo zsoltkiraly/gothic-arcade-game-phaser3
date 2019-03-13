@@ -1,0 +1,294 @@
+{
+    "frames": [
+        {
+            "filename": "fire-1",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 26
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-2",
+            "frame": {
+                "x": 0,
+                "y": 26,
+                "w": 41,
+                "h": 26
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-3",
+            "frame": {
+                "x": 0,
+                "y": 52,
+                "w": 41,
+                "h": 26
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-4",
+            "frame": {
+                "x": 0,
+                "y": 78,
+                "w": 41,
+                "h": 26
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-5",
+            "frame": {
+                "x": 0,
+                "y": 104,
+                "w": 41,
+                "h": 26
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-ball-1",
+            "frame": {
+                "x": 0,
+                "y": 130,
+                "w": 30,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-ball-2",
+            "frame": {
+                "x": 0,
+                "y": 147,
+                "w": 30,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-ball-3",
+            "frame": {
+                "x": 0,
+                "y": 164,
+                "w": 30,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-ball-disappear-1",
+            "frame": {
+                "x": 0,
+                "y": 181,
+                "w": 30,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-ball-disappear-2",
+            "frame": {
+                "x": 0,
+                "y": 198,
+                "w": 30,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-ball-disappear-3",
+            "frame": {
+                "x": 0,
+                "y": 215,
+                "w": 30,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-bomb-1",
+            "frame": {
+                "x": 0,
+                "y": 232,
+                "w": 20,
+                "h": 20
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-bomb-2",
+            "frame": {
+                "x": 0,
+                "y": 252,
+                "w": 20,
+                "h": 20
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-bomb-3",
+            "frame": {
+                "x": 0,
+                "y": 272,
+                "w": 20,
+                "h": 20
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-bomb-4",
+            "frame": {
+                "x": 0,
+                "y": 292,
+                "w": 20,
+                "h": 20
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-bomb-5",
+            "frame": {
+                "x": 0,
+                "y": 312,
+                "w": 20,
+                "h": 20
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-bomb-disappear-1",
+            "frame": {
+                "x": 0,
+                "y": 332,
+                "w": 40,
+                "h": 20
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-bomb-disappear-2",
+            "frame": {
+                "x": 0,
+                "y": 352,
+                "w": 40,
+                "h": 20
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-bomb-disappear-3",
+            "frame": {
+                "x": 0,
+                "y": 372,
+                "w": 40,
+                "h": 20
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-disappear-1",
+            "frame": {
+                "x": 0,
+                "y": 392,
+                "w": 27,
+                "h": 23
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-disappear-2",
+            "frame": {
+                "x": 0,
+                "y": 415,
+                "w": 27,
+                "h": 23
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fire-disappear-3",
+            "frame": {
+                "x": 0,
+                "y": 438,
+                "w": 27,
+                "h": 23
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

@@ -1,0 +1,294 @@
+{
+    "frames": [
+        {
+            "filename": "hero-attack-1",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 92,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-attack-2",
+            "frame": {
+                "x": 0,
+                "y": 49,
+                "w": 92,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-attack-3",
+            "frame": {
+                "x": 0,
+                "y": 98,
+                "w": 92,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-attack-4",
+            "frame": {
+                "x": 0,
+                "y": 147,
+                "w": 92,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-attack-5",
+            "frame": {
+                "x": 0,
+                "y": 196,
+                "w": 92,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-crouch",
+            "frame": {
+                "x": 0,
+                "y": 245,
+                "w": 60,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-hurt",
+            "frame": {
+                "x": 0,
+                "y": 294,
+                "w": 52,
+                "h": 39
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-idle-1",
+            "frame": {
+                "x": 0,
+                "y": 333,
+                "w": 58,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-idle-2",
+            "frame": {
+                "x": 0,
+                "y": 382,
+                "w": 58,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-idle-3",
+            "frame": {
+                "x": 0,
+                "y": 431,
+                "w": 58,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-idle-4",
+            "frame": {
+                "x": 0,
+                "y": 480,
+                "w": 58,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-jump-1",
+            "frame": {
+                "x": 0,
+                "y": 529,
+                "w": 54,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-jump-2",
+            "frame": {
+                "x": 0,
+                "y": 578,
+                "w": 54,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-jump-3",
+            "frame": {
+                "x": 0,
+                "y": 627,
+                "w": 54,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-jump-4",
+            "frame": {
+                "x": 0,
+                "y": 676,
+                "w": 54,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-magic",
+            "frame": {
+                "x": 0,
+                "y": 725,
+                "w": 58,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-run-1",
+            "frame": {
+                "x": 0,
+                "y": 774,
+                "w": 63,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-run-2",
+            "frame": {
+                "x": 0,
+                "y": 823,
+                "w": 63,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-run-3",
+            "frame": {
+                "x": 0,
+                "y": 872,
+                "w": 63,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-run-4",
+            "frame": {
+                "x": 0,
+                "y": 921,
+                "w": 63,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-run-5",
+            "frame": {
+                "x": 0,
+                "y": 970,
+                "w": 63,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hero-run-6",
+            "frame": {
+                "x": 0,
+                "y": 1019,
+                "w": 63,
+                "h": 49
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

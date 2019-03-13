@@ -1,0 +1,580 @@
+{
+    "frames": [
+        {
+            "filename": "enemy-death-1",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 26,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-death-2",
+            "frame": {
+                "x": 0,
+                "y": 52,
+                "w": 26,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-death-3",
+            "frame": {
+                "x": 0,
+                "y": 104,
+                "w": 26,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-death-4",
+            "frame": {
+                "x": 0,
+                "y": 156,
+                "w": 26,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-death-5",
+            "frame": {
+                "x": 0,
+                "y": 208,
+                "w": 26,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-death-beast-1",
+            "frame": {
+                "x": 0,
+                "y": 260,
+                "w": 26,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-death-beast-2",
+            "frame": {
+                "x": 0,
+                "y": 419,
+                "w": 26,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-death-beast-3",
+            "frame": {
+                "x": 0,
+                "y": 578,
+                "w": 26,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-death-beast-4",
+            "frame": {
+                "x": 0,
+                "y": 737,
+                "w": 26,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-death-beast-5",
+            "frame": {
+                "x": 0,
+                "y": 896,
+                "w": 26,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-breath-1",
+            "frame": {
+                "x": 0,
+                "y": 1055,
+                "w": 44,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-breath-2",
+            "frame": {
+                "x": 0,
+                "y": 1214,
+                "w": 44,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-breath-3",
+            "frame": {
+                "x": 0,
+                "y": 1373,
+                "w": 44,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-breath-4",
+            "frame": {
+                "x": 0,
+                "y": 1532,
+                "w": 44,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-burn-1",
+            "frame": {
+                "x": 0,
+                "y": 1691,
+                "w": 69,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-burn-2",
+            "frame": {
+                "x": 0,
+                "y": 1850,
+                "w": 69,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-burn-3",
+            "frame": {
+                "x": 0,
+                "y": 2009,
+                "w": 69,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-burn-4",
+            "frame": {
+                "x": 0,
+                "y": 2168,
+                "w": 69,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-burn-5",
+            "frame": {
+                "x": 0,
+                "y": 2327,
+                "w": 69,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-burn-6",
+            "frame": {
+                "x": 0,
+                "y": 2486,
+                "w": 69,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-idle-1",
+            "frame": {
+                "x": 0,
+                "y": 2645,
+                "w": 48,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-idle-2",
+            "frame": {
+                "x": 0,
+                "y": 2804,
+                "w": 48,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-idle-3",
+            "frame": {
+                "x": 0,
+                "y": 2963,
+                "w": 48,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-idle-4",
+            "frame": {
+                "x": 0,
+                "y": 3122,
+                "w": 48,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-idle-5",
+            "frame": {
+                "x": 0,
+                "y": 3281,
+                "w": 48,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-beast-idle-6",
+            "frame": {
+                "x": 0,
+                "y": 3440,
+                "w": 48,
+                "h": 159
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-gato-1",
+            "frame": {
+                "x": 0,
+                "y": 3599,
+                "w": 85,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-gato-2",
+            "frame": {
+                "x": 0,
+                "y": 3651,
+                "w": 85,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-gato-3",
+            "frame": {
+                "x": 0,
+                "y": 3703,
+                "w": 85,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hell-gato-4",
+            "frame": {
+                "x": 0,
+                "y": 3755,
+                "w": 85,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-clothed-1",
+            "frame": {
+                "x": 0,
+                "y": 3807,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-clothed-2",
+            "frame": {
+                "x": 0,
+                "y": 3859,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-clothed-3",
+            "frame": {
+                "x": 0,
+                "y": 3911,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-clothed-4",
+            "frame": {
+                "x": 0,
+                "y": 3963,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-clothed-5",
+            "frame": {
+                "x": 0,
+                "y": 4015,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-clothed-6",
+            "frame": {
+                "x": 0,
+                "y": 4067,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-clothed-7",
+            "frame": {
+                "x": 0,
+                "y": 4119,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-clothed-8",
+            "frame": {
+                "x": 0,
+                "y": 4171,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-rise-clothed-1",
+            "frame": {
+                "x": 0,
+                "y": 4223,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-rise-clothed-2",
+            "frame": {
+                "x": 0,
+                "y": 4275,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-rise-clothed-3",
+            "frame": {
+                "x": 0,
+                "y": 4327,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-rise-clothed-4",
+            "frame": {
+                "x": 0,
+                "y": 4379,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-rise-clothed-5",
+            "frame": {
+                "x": 0,
+                "y": 4431,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-rise-clothed-6",
+            "frame": {
+                "x": 0,
+                "y": 4483,
+                "w": 44,
+                "h": 52
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
