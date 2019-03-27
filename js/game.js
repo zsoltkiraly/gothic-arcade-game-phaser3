@@ -8,7 +8,7 @@ var config = {
     physics: {
         default: 'arcade',
         arcade: {
-            debug: false,
+            debug: true,
             fps: 100,
             gravity: { y: 400 }
         }

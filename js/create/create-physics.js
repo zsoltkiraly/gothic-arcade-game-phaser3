@@ -570,6 +570,7 @@ function _physics() {
         enemy.body.width = 26;
         enemy.body.height = 49;
         enemy.body.setOffset(0);
+        enemy.destroy();
     }
 
 
